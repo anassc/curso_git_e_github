@@ -3,3 +3,14 @@ criando uma nova Branch plelo terminal
 comandno necessário para a criação de uma nova branch via terminal:
 
 git checkout -b (nomeda branch)
+
+esse  comando vai criar e já trocar para essa nova branhc
+
+
+para criar a branch pleo github
+
+1- Acessar o reposítorio
+2- Ir na sessão de listagem das Branch
+3-inserir o nome da nova branch
+4-Confirmar a criação dessa branch
+
